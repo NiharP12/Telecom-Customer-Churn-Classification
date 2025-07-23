@@ -23,3 +23,9 @@ The objective of this project is to build a machine learning model that can accu
   - The final model achieves 95% recall using Random Forest with hyperparameter tuning via GridSearchCV. Only 51 false negatives were observed out of 2070 total test cases.
 
 Evaluated model performance using metrics such as Accuracy, Recall, Confusion Matrix, and Classification Report.
+
+# Conclusion
+
+This project successfully built a robust machine learning pipeline to predict customer churn in a telecom company. After addressing class imbalance using Random Oversampling and tuning hyperparameters with GridSearchCV, the final Random Forest Classifier achieved an impressive 95% recall, significantly minimizing false negatives — only 51 out of 2070 test samples. The model is now well-suited to assist telecom providers in identifying high-risk customers and proactively improving customer retention strategies. With optimized performance and practical business impact, this solution is ready for real-world deployment.
+
+
